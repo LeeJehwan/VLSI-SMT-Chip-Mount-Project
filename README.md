@@ -12,3 +12,4 @@ VLSI-SMT Chip Mount Project using TSP search algorithm and visualization with op
 > ### VLSI 10150 chips
 
 <img src="./img/tsp_10150.PNG" width=100%/>
+
