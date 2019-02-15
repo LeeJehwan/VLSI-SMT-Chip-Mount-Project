@@ -1,7 +1,7 @@
 # VLSI-SMT-Chip-Mount-Project
 VLSI-SMT Chip Mount Project using TSP search algorithm and visualization with openGL
 
-#### initial route: Kruskal’s algorithm 2
+#### Heuristic algorithm: Kruskal’s algorithm
 #### Optimization algorithm: 2-Opt & 3-Opt
 
 
