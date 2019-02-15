@@ -1,6 +1,10 @@
 # VLSI-SMT-Chip-Mount-Project
 VLSI-SMT Chip Mount Project using TSP search algorithm and visualization with openGL
 
+#### initial route: Kruskal’s algorithm 2
+#### Optimization algorithm: 2-Opt & 3-Opt
+
+
 > ### VLSI 411 chips
 
 <img src="./img/tsp_411.PNG" width=100%/>
